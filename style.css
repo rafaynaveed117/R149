@@ -1,6 +1,29 @@
 body{
 background-colour:Black;
 }
-h2{
+h1{
 color:Red;
+font-size:40px;
+font-style:italic;
 }
+h2{color:red;
+font-size:50px;
+font-style:italic;
+}
+.botton1{
+color: black;
+font-size:30px;
+font-style:italic;
+border-radius:10px;
+padding:20px;
+background:white;
+}
+.botton2{
+font-size:30px;
+font-style:italic;
+color:black;
+border-radius:10px;
+Padding:20px;
+background: white;
+}
+
